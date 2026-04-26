@@ -266,10 +266,3 @@ MIT License – see [LICENSE](LICENSE) file.
 NASA, ESA, FAO, PyTorch, HuggingFace, FastAPI, and Egypt’s Agritech Incubator.
 
 ---
-
-
-
-ل `# 🌾🧠 NILEX.AI` لآخر سطر.
-4. اعمل **Commit changes**.
-
-كدا بقى **احترافي وجاهز** 👌
