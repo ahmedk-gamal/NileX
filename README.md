@@ -210,13 +210,13 @@ jobs:
 
 ## 🗺️ Roadmap
 
-**Phase 1 (Q3 2025 – MVP)**  
+**Phase 1 (Q2 2026 – MVP)**  
 ✅ Oranges (Egypt → EU), demand forecasting, basic CV grading, farmer registration.
 
-**Phase 2 (Q4 2025 – Scale)**  
+**Phase 2 (Q4 2026 – Scale)**  
 🔄 All major crops, full FinTech integration with banks, Agentic AI for logistics.
 
-**Phase 3 (2026 – Global)**  
+**Phase 3 (2027 – Global)**  
 🌍 10+ import countries, blockchain traceability, carbon credits marketplace.
 
 ---
