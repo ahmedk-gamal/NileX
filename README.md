@@ -242,7 +242,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on bug reports, fe
 
 **Ahmed Khaled** – Project Owner & Lead AI Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedkhaled)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ahmed-auc/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmedk-gamal)
 
 ---
